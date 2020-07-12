@@ -1,0 +1,90 @@
+body{
+    background-color:#00649f;
+}
+
+
+#AmarillaTuerca{
+    position: relative;
+    top: -448.5px;
+    left: 495px ;
+    transform-origin: 50% 50%;
+  animation: 10s rotate  linear infinite;
+
+}
+#BlancaCtuetca{
+    position: relative;
+    top: -535px;
+    left: 471px ;
+    transform-origin: 50% 50%;
+    animation: 10s rotate linear infinite;
+}
+
+#RojaTuerca{
+    position: relative;
+    top: -567px;
+    left: 88px ;
+        transform-origin: 50% 50%;
+  animation: 10s rotate linear infinite;
+
+}
+#BlancaTuercaG{
+    position: relative;
+    top: -430px;
+    left: 30px ;
+        transform-origin: 50% 50%;
+    animation: 10s rotate linear infinite;
+ }
+.cable{
+    position: relative;
+    top: -755.2px;
+    left: 535.5px ;
+   }
+   .mouse{
+    position: relative;
+    top: -250.2px;
+    left: 70.5px ;
+    z-index: 1;
+   }
+   
+   @keyframes rotate {from {transform: rotate(0deg);}
+    to {transform: rotate(360deg);}}
+@-webkit-keyframes rotate {from {-webkit-transform: rotate(0deg);}
+  to {-webkit-transform: rotate(360deg);}}
+
+.hed{
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 81%);
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 81%);
+}
+
+.contenedorImagen{
+    background-color:#2c94cb;
+   
+    height: 500px;
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 81%);
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 81%);
+}
+.activos{
+    position: relative;
+
+    top: -666.2px;
+    background-color: rgb(18, 124, 122);
+    color: rgb(255, 255, 255);
+    height: 380px;
+    z-index: -1;
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 91%, 0 73%);
+    clip-path: polygon(0 0, 100% 0, 100% 91%, 0 73%);
+
+}
+.logoU{
+    margin-left: 5%;
+    display: inline-block;
+    
+}
+.tamañoP{
+    margin-right: 5%;
+    position: relative;
+    display: inline-block;
+    width: 60% !important; 
+    text-align: center;
+    
+}

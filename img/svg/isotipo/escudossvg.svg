@@ -1,0 +1,25 @@
+<svg width="157" height="181" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#ffffff" id="canvas_background" height="183" width="159" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_24" d="m80.407494,179.531557c0,0 0.980391,-138.23518 0.980386,-138.235186c0.000005,0.000006 73.039161,-0.735288 73.039153,-0.735293c0.000008,0.000005 0.245105,71.568574 0.245098,71.568566c0.000007,0.000008 -3.67646,16.666661 -22.548994,32.107825c-18.872533,15.441163 -0.980391,2.696076 -24.019588,19.607827c-28.941855,17.47236 -27.696055,15.686261 -27.696055,15.686261z" fill-opacity="0.85" stroke-opacity="0.85" stroke="#0f0f00" fill="#ff0000"/>
+  <text stroke="#0f0f00" transform="matrix(1,0,0,1.0384470224380493,0,-7.893053559586406) " xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="63" id="svg_18" y="191.691971" x="534.726548" fill-opacity="0.7" stroke-opacity="null" stroke-width="0" fill="#ffffff">R</text>
+  <path stroke="#0f0f00" transform="rotate(0.4189872741699219 39.29417419433611,109.74731445312543) " id="svg_25" d="m76.602691,179.229589c0,0 -0.795439,-137.674099 -0.985038,-138.229308c-0.094799,-0.277604 -18.441237,-0.461419 -36.763974,-0.575832c-18.322737,-0.114414 -36.621773,-0.159427 -36.621769,-0.15943c-0.000008,0.000005 -0.246268,71.565531 -0.246261,71.565523c-0.000007,0.000008 3.693906,16.665952 22.655995,32.10646c18.962088,15.440506 12.09237,10.533909 24.133567,19.606993c12.041197,9.073084 7.823633,5.440349 16.49948,10.048584c8.675847,4.608235 11.328,5.63701 11.328,5.63701z" fill-opacity="0.85" stroke-opacity="0.85" fill="#ff0000"/>
+  <text font-weight="bold" stroke="#0f0f00" transform="matrix(1,0,0,1.0384470224380493,0,-7.893053559586406) " xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="76" id="svg_26" y="122.805453" x="15.524579" fill-opacity="0.85" stroke-opacity="0.85" stroke-width="0" fill="#ffffff">S</text>
+  <text font-weight="bold" stroke="#0f0f00" transform="matrix(1,0,0,1.0384470224380493,0,-7.893053559586406) " xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="76" id="svg_29" y="123.043806" x="87.548992" fill-opacity="0.85" stroke-opacity="0.85" stroke-width="0" fill="#ffffff">R</text>
+  <path stroke="#000000" id="svg_47" d="m1.58381,37.599727l49.858079,0.123453l0.000001,-36.790101c0.000014,0.000002 -10.447704,9.259256 -23.672662,9.135799c-13.224959,-0.123457 -26.053168,-9.135797 -26.053182,-9.135799c0.000014,0.000002 -0.132236,0.493829 -0.132236,36.666648z" fill-opacity="0.85" stroke-opacity="0.85" stroke-width="NaN" fill="#ff0000"/>
+  <path stroke="#000000" id="svg_58" d="m53.843585,37.457768l49.858079,0.123453l0.000001,-36.790101c0.000014,0.000002 -10.447704,9.259256 -23.672662,9.135799c-13.224959,-0.123457 -26.053168,-9.135797 -26.053182,-9.135799c0.000014,0.000002 -0.132236,0.493829 -0.132236,36.666648z" fill-opacity="0.85" stroke-opacity="0.85" stroke-width="NaN" fill="#ff0000"/>
+  <path stroke="#000000" id="svg_59" d="m106.082258,38.478333l49.858079,0.123453l0.000001,-36.790101c0.000014,0.000002 -10.447704,9.259256 -23.672662,9.135799c-13.224959,-0.123457 -26.053168,-9.135797 -26.053182,-9.135799c0.000014,0.000002 -0.132236,0.493829 -0.132236,36.666648z" fill-opacity="0.85" stroke-opacity="0.85" stroke-width="NaN" fill="#ff0000"/>
+  <text font-weight="bold" stroke-width="0" xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="32" id="svg_60" y="34.260239" x="19.883753" fill-opacity="0.85" stroke-opacity="0.85" stroke="#000000" fill="#ffffff">I</text>
+  <text font-weight="bold" stroke-width="0" xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="32" id="svg_61" y="34.321132" x="68.016668" fill-opacity="0.85" stroke-opacity="0.85" stroke="#000000" fill="#ffffff">E</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="32" id="svg_63" y="35.343036" x="121.923625" fill-opacity="0.85" stroke-opacity="0.85" stroke-width="0" stroke="#000000" fill="#ffffff">P</text>
+ </g>
+</svg>

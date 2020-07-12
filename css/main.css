@@ -1,0 +1,145 @@
+body{
+background: rgba(247,247,247,1);
+background: -moz-linear-gradient(left, rgba(247,247,247,1) 0%, rgba(237,237,237,1) 47%, rgba(230,230,230,1) 100%);
+background: -webkit-linear-gradient(left, rgba(247,247,247,1) 0%, rgba(237,237,237,1) 47%, rgba(230,230,230,1) 100%);
+background: -o-linear-gradient(left, rgba(247,247,247,1) 0%, rgba(237,237,237,1) 47%, rgba(230,230,230,1) 100%);
+background: -ms-linear-gradient(left, rgba(247,247,247,1) 0%, rgba(237,237,237,1) 47%, rgba(230,230,230,1) 100%);
+background: linear-gradient(to right, rgba(247,247,247,1) 0%, rgba(237,237,237,1) 47%, rgba(230,230,230,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7f7f7', endColorstr='#e6e6e6', GradientType=1 );
+}
+header{
+    background: rgba(0,156,204,1);
+    background: -moz-linear-gradient(left, rgba(0,156,204,1) 0%, rgba(0,156,204,0.98) 13%, rgba(0,156,204,0.9) 51%, rgba(0,204,204,0.81) 100%);
+    background: -webkit-linear-gradient(left, rgba(0,156,204,1) 0%, rgba(0,156,204,0.98) 13%, rgba(0,156,204,0.9) 51%, rgba(0,204,204,0.81) 100%);
+    background: -o-linear-gradient(left, rgba(0,156,204,1) 0%, rgba(0,156,204,0.98) 13%, rgba(0,156,204,0.9) 51%, rgba(0,204,204,0.81) 100%);
+    background: -ms-linear-gradient(left, rgba(0,156,204,1) 0%, rgba(0,156,204,0.98) 13%, rgba(0,156,204,0.9) 51%, rgba(0,204,204,0.81) 100%);
+    background: linear-gradient(to right, rgba(0,156,204,1) 0%, rgba(0,156,204,0.98) 13%, rgba(0,156,204,0.9) 51%, rgba(0,204,204,0.81) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#009ccc', endColorstr='#00cccc', GradientType=1 );
+}
+
+.crush{
+    width: 50px; height: 50px;
+}
+
+
+.headerIndex{
+    height: 30em;
+}
+.headerG{
+    height: 17em;
+}
+
+.Titulo{
+    color: antiquewhite;
+  
+}
+.Titulo2{
+    color: rgb(22, 105, 66);
+  
+}
+.seccion__titurlo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    color: #00777a;
+    font-size: 3.5em;
+    font-weight: 700;
+    margin-bottom: 20px;
+    margin-top: 0;
+    position: relative;
+    z-index: 1;
+    text-align: center;
+}
+
+.ht{
+    color: rgb(22, 105, 66);
+}
+.ft{
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Arial Narrow', Arial, sans-serif;
+}
+
+.seccion__titurlo::after{
+    border-bottom: 3px solid #01b1b3;
+    bottom: -5px;
+    content: '';
+    height: 1px;
+    left: 0;
+    margin: auto;
+    position: absolute;
+    right: 0;
+    top: auto;
+    width: 10%;
+}
+
+footer{
+    background-color: rgb(19, 52, 100); 
+    color:aliceblue;
+
+}
+.navb{
+    background: rgba(80,156,204);
+    background: -moz-linear-gradient(left, rgba(0,156,204,1) 0%, rgba(0,156,204,0.98) 13%, rgba(0,156,204,0.9) 51%, rgba(0,204,204,0.81) 100%);
+    background: -webkit-linear-gradient(left, rgba(0,156,204,1) 0%, rgba(0,156,204,0.98) 13%, rgba(0,156,204,0.9) 51%, rgba(0,204,204,0.81) 100%);
+    background: -o-linear-gradient(left, rgba(0,156,204,1) 0%, rgba(0,156,204,0.98) 13%, rgba(0,156,204,0.9) 51%, rgba(0,204,204,0.81) 100%);
+    background: -ms-linear-gradient(left, rgba(0,156,204,1) 0%, rgba(0,156,204,0.98) 13%, rgba(0,156,204,0.9) 51%, rgba(0,204,204,0.81) 100%);
+    background: linear-gradient(to right, rgba(0,156,204,1) 0%, rgba(0,156,204,0.98) 13%, rgba(0,156,204,0.9) 51%, rgba(0,204,204,0.81) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#009ccc', endColorstr='#00cccc', GradientType=1 );
+}
+
+ .bot6{
+    font-size: 0.65em;
+    color: #ffffff;    
+    }    
+
+
+.h7{
+    font-size: 1em
+}@media screen and (max-width: 576px){
+    .titulos{
+     text-align: center;
+     font-size:2em;
+     }
+   
+     .contacto{
+         font-size:1em;
+     }
+
+  
+
+     }
+     .iconoM{
+        font-size:1.5em;
+        text-align: center;
+       }
+
+       @media screen and (min-width:577px)and(max-width: 1200px){
+        .titulos{
+         text-align: left;
+         font-size: 2.5em;
+         }
+
+        
+         }
+
+        
+    .perfilimg{
+        height:16em; 
+        width:16em;
+        border: 5px solid #607D8B !important;
+     
+    }   
+
+    .espacio{
+        position: absolute;
+        height:16em; 
+        width:16em;
+        background-color: #607D8B; 
+    }
+    
+    
+    .iconoContacto{
+        height:1.5em; 
+        width:1.5em;
+    }
+    .h6t{
+        font-size:1em;  
+     }
